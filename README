@@ -1,0 +1,47 @@
+# Expense Tracker App
+
+## Overview
+
+The Expense Tracker is a Java application designed to help users manage and track their monthly expenses. With a secure user authentication system, users can safely log in to monitor, categorize, and analyze their spending throughout the month.
+
+## Features
+
+1. **User Authentication:**
+   - Secure login system to protect user data.
+   - Registration for new users with unique credentials.
+
+2. **Expense Tracking:**
+   - Record daily expenses with details such as category, amount, and date.
+   - Categorize expenses for better organization and analysis.
+
+3. **Monthly Overview:**
+   - View a summary of monthly expenses, including total spending and category-wise breakdown.
+
+4. **Expense Analysis:**
+   - Generate reports and visualizations to analyze spending patterns.
+   - Set budget limits for each expense category.
+
+## How to Use
+
+1. **Run the Application:**
+   - Compile and run the Java application using your preferred Java IDE or command line.
+
+2. **User Authentication:**
+   - Register as a new user or log in with existing credentials.
+
+3. **Expense Tracking:**
+   - Add daily expenses with details like category, amount, and date.
+
+4. **Monthly Overview:**
+   - Navigate to the monthly overview to see a summary of expenses.
+
+5. **Expense Analysis:**
+   - Explore reports and visualizations to analyze spending patterns.
+   - Set budget limits to receive notifications when exceeding predefined limits.
+
+## Technologies Used
+
+- **Java:** Core programming language for application logic.
+- **JavaFX:** User interface framework for creating an interactive UI.
+- **SQLite:** Database for storing user information and expense data securely.
+
